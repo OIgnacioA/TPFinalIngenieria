@@ -1,0 +1,71 @@
+.ContenedorPrincipal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F0DE92;
+    border: 2px solid black;
+    padding: 20px;
+  }
+  
+  .ContenedorImagen {
+    border: 4px solid black;
+    border-radius: 10px;
+    font-family: Consolas, monospace;
+    background-color: #389352;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .Formulario {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .inputs {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  }
+  
+  .Ciudad {
+    font-family: Consolas;
+    font-size: 2rem;
+    margin: 10px;
+  }
+  
+  .Temperatura {
+    font-family: Consolas;
+    font-size: 1.5rem;
+    margin: 10px;
+  }
+  
+  .Imagen {
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  iframe {
+    margin-top: 20px;
+  }
+  
+  label {
+    font-family: Consolas;
+    font-size: 1.2rem;
+    margin: 10px;
+  }
+  
+  iframe {
+
+  margin : 0;
+
+  }
