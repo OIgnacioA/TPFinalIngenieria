@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//github.com/OIgnacioA/TPFinalIngenieria/static/css/main.d3a844ee.css",
-    "main.js": "//github.com/OIgnacioA/TPFinalIngenieria/static/js/main.11329612.js",
-    "index.html": "//github.com/OIgnacioA/TPFinalIngenieria/index.html",
-    "main.d3a844ee.css.map": "//github.com/OIgnacioA/TPFinalIngenieria/static/css/main.d3a844ee.css.map",
-    "main.11329612.js.map": "//github.com/OIgnacioA/TPFinalIngenieria/static/js/main.11329612.js.map"
+    "main.css": "/OIgnacioA/TPFinalIngenieria/static/css/main.d3a844ee.css",
+    "main.js": "/OIgnacioA/TPFinalIngenieria/static/js/main.11329612.js",
+    "index.html": "/OIgnacioA/TPFinalIngenieria/index.html",
+    "main.d3a844ee.css.map": "/OIgnacioA/TPFinalIngenieria/static/css/main.d3a844ee.css.map",
+    "main.11329612.js.map": "/OIgnacioA/TPFinalIngenieria/static/js/main.11329612.js.map"
   },
   "entrypoints": [
     "static/css/main.d3a844ee.css",
